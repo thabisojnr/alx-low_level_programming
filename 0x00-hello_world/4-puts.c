@@ -1,4 +1,4 @@
-gcc 4-puts.c
+gcc 4-puts.c;
 
 #include <stdio.h>
 
