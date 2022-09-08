@@ -5,6 +5,7 @@
  * Return: 0 after printing the function
  */
 #include <stdio.h>
+gcc 4-puts.c
 
 int main()
 
