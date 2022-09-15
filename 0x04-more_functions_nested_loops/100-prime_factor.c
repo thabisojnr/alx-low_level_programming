@@ -27,6 +27,6 @@ int main(void)
 			number /= inc;
 	}
 	}
-	printf("5ld\n", number);
+	printf("%ld\n", number);
 	return (0);
 }
