@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the for uppercase letter
- *
- * Return: Always 0.
- */ 
+* _isupper - check the for uppercase letter
+*
+* Return: Always 0.
+*/ 
 
 int _isupper(int c)
 {
