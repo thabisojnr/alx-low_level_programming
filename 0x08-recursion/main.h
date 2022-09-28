@@ -1,7 +1,12 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <stdio.h>
+/**
+ * File: main.h
+ * Auth: me
+ * Desc: Header file containing prototypes for all functions
+ * used in the project
+ */
 
 int _putchar(char c);
 void _puts_recursion(char *s);
@@ -15,6 +20,5 @@ int _sqrt(int n, int x);
 int is_prime(int n, int start);
 void check(char *s, int start, int end, int *flag);
 int wildcmp(char *s1, char *s2);
-int find_sqrt(int num, int root);
 
 #endif /*MAIN_H*/
