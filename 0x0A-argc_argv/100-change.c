@@ -31,7 +31,7 @@ while (cents > 0)
 	{	cents -= 10;
 		continue;
 	}
-	if ((cengts - 5) > 0)
+	if ((cents - 5) > 0)
 	{
 		cents -= 5;
 		continue;
